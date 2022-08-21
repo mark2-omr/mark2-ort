@@ -1,0 +1,19 @@
+{
+  "name": "mark2-ort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CMR Project, Keio University SFC",
+  "license": "MIT",
+  "dependencies": {
+    "onnxruntime-web": "^1.12.1"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
